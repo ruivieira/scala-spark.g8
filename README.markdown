@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ruivieira/scala-spark.g8.svg?branch=master)](https://travis-ci.org/ruivieira/scala-spark.g8)
+
 A [Giter8][g8] template for Scala and Apache Spark projects.
 
 # Usage

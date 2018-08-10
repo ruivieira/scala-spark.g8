@@ -11,3 +11,11 @@ g8 https://github.com/ruivieira/scala-spark.g8
 and follow the on-screen instructions.
 
 [g8]: http://www.foundweekends.org/giter8/
+
+# Included
+
+ * Apache Spark
+   * Core
+   * MLlib
+ * scalatest
+    * Spark test suite (`SparkFunSuite` based)
